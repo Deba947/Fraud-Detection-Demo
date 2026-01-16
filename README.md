@@ -1,6 +1,4 @@
 
----
-
 # 🚨 Fraud Detection System
 
 **Rule-Based + Machine Learning Powered Transaction Monitoring Platform**
